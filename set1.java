@@ -80,7 +80,7 @@ public class set1 extends JFrame {
 		lblQuestion.setBounds(10, 11, 82, 14);
 		contentPane.add(lblQuestion);
 		
-		JLabel lblWhoInventedJava = new JLabel("Who Invented JAVA ?");    //Set-1 Question-1
+		JLabel lblWhoInventedJava = new JLabel("Who Invented JAVA ?");    //Question
 		lblWhoInventedJava.setBounds(20, 36, 151, 14);
 		contentPane.add(lblWhoInventedJava);
 		
